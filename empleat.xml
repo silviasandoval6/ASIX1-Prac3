@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <empleats>
     <empleat>
-        <mon></mon>
-        <cognom></cognom>
-        <direccio></direccio>
-        <telefon></telefon>
+        <mon>Silvia</mon>
+        <cognom>Sandoval</cognom>
+        <direccio>Joan Guell</direccio>
+        <telefon>649 586 695</telefon>
+    </empleat>
+    <empleat>
+        <mon>Romina</mon>
+        <cognom>Domingo</cognom>
+        <direccio>Rocafort</direccio>
+        <telefon>649 586 445</telefon>
     </empleat>
 </empleats>

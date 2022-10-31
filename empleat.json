@@ -1,0 +1,18 @@
+{
+    "empleats": [
+        {
+            "nom":"Silvia",
+            "cognom": "Sandoval",
+            "direccio": "Joan Guell",
+            "telefon": "649 586 695"
+        },
+
+        {
+            "nom":"Romina",
+            "cognom": "Domingo",
+            "direccio": "Rocafort",
+            "telefon": "649 586 445"
+        }
+
+    ]
+}
